@@ -4,7 +4,7 @@ Prof. Daniel Neil
 
 Project by Rebecca Scheidegger, Emily Padvorac, Dana Chermesh
 
-- _[Full report](!ADD!)_
+- _[Full report](https://github.com/danachermesh/Food_Deserts_ML/blob/master/FoodDesertBirthOutcomes_FinalPaper.pdf)_
 - _[Presentation](https://github.com/danachermesh/Food_Deserts_ML/blob/master/FoodDesertBirthOutcomes_MLforCities2018.pdf)_
 
 ## Objective
