@@ -12,7 +12,7 @@ This research aims to identify the important factors impacting low birthweight a
 
 
 ## Data
-_ * Data that were in used can be found in this GitHub repo under [data folder](https://github.com/danachermesh/Food_Deserts_ML/tree/master/data)_
+_Data that were in used can be found in this GitHub repo under [data folder](https://github.com/danachermesh/Food_Deserts_ML/tree/master/data)_
 
 _Birth Outcome Variables Data_
 Two adverse birth outcomes were considered: preterm birth and low birthweight. Data on these outcomes were collected from New York State Department of Health at the zip code level.
@@ -33,7 +33,7 @@ _Data limitations_
 
 
 ## Methodology
-_ * The complete analysis and the code used to generate it are found in this GitHub repo, seperated to the Ipython notebooks above_
+_The complete analysis and the code used to generate it are found in this GitHub repo, seperated to the Ipython notebooks above_
 
 All data that were included in this study are labeled, thus methodologies of _**supervised learning**_ only have been taken into consideration. <\br>
 Two methodologies were used: _**random forest**_ and _**Bayesian network**_. Using two approaches allowed results to be compared and contrasted to better understand the structure and accuracy of model choice. 
