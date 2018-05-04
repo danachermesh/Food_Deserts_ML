@@ -19,11 +19,11 @@ Two adverse birth outcomes were considered: preterm birth and low birthweight. D
 
 _Population Variables Data_
 At the beginning of research, a dataset containing variables on food deserts was considered. However, the variables had extremely high multicollinearity. As such, data was gathered on a subset of the variables most relevant to the aim of the research. Data was collected and derived from the **American Community Survey (ACS) 5-year (2009-2016)** at the zip code level. Variables included: 
-  - **Citizenship status 
-  - Poverty rate 
-  - Health insurance coverage 
-  - Vehicle Access 
-  - SNAP (Food Stamp) Benefits**
+  - **Citizenship status** 
+  - **Poverty rate** 
+  - **Health insurance coverage** 
+  - **Vehicle Access**
+  - **SNAP (Food Stamp) Benefits**
 A variable of **teen birth rate** was also considered, and was retrieved from the NYS Department of Health data. Additionally, each zip code was classified as either urban or rural, using classifications as defined by the US Census Bureau.
 
 _Data limitations_
