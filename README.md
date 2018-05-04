@@ -4,6 +4,9 @@ Prof. Daniel Neil
 
 Project by Rebecca Scheidegger, Emily Padvorac, Dana Chermesh
 
+- _[Full report](!ADD!)_
+- _[Presentation](https://github.com/danachermesh/Food_Deserts_ML/blob/master/FoodDesertBirthOutcomes_MLforCities2018.pdf)
+
 ## Objective
 This research aims to identify the important factors impacting low birthweight and preterm births on the zip code level, using random forests and Bayesian network approaches. Identifying if  certain variables are important in determining negative birth outcomes can help decide what policy levers to pull or what demographic groups to focus intervention programs on. These findings are applicable to New York government at both the state and local level, and would be most relevant to the Department of Health. Additionally, the research is applicable to hospitals or healthcare providers who can help identify at-risk persons. This research seeks to understand to what extent living in a food desert may have on birth outcomes. In recent years, the topic of food deserts has become increasingly popular. In short, a food desert is an area that has low-access to healthy, nutritious food.
 
